@@ -1,0 +1,23 @@
+{
+  "name": "xyz",
+  "version": "1.0.0",
+  "description": "Reports Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakpadukone20/com.infra.git"
+  },
+  "keywords": [
+    "Reports",
+    "infrastructure"
+  ],
+  "author": "Deepak & Jai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakpadukone20/com.infra/issues"
+  },
+  "homepage": "https://github.com/deepakpadukone20/com.infra#readme"
+}
